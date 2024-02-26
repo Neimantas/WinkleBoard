@@ -1,5 +1,0 @@
-C:\Users\netco\source\repos\WinkleBoard\obj\Debug\netcoreapp3.1\WinkleBoard.csproj.AssemblyReference.cache
-C:\Users\netco\source\repos\WinkleBoard\obj\Debug\netcoreapp3.1\WinkleBoard.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\netco\source\repos\WinkleBoard\obj\Debug\netcoreapp3.1\WinkleBoard.AssemblyInfoInputs.cache
-C:\Users\netco\source\repos\WinkleBoard\obj\Debug\netcoreapp3.1\WinkleBoard.AssemblyInfo.cs
-C:\Users\netco\source\repos\WinkleBoard\obj\Debug\netcoreapp3.1\WinkleBoard.csproj.CoreCompileInputs.cache
